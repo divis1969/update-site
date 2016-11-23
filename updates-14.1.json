@@ -1,0 +1,15 @@
+{
+"result" :
+  [
+    {
+      "filename" : "test.zip",
+      "url" : "https://github.com/divis1969/mytest/releases/download/v2.0/test.zip",
+      "changes" : "https://github.com/divis1969/mytest/releases/download/v2.0/ReleaseNotes.md",
+      "md5sum" : "88aadf4440a53701d7e2d9440454cbff",
+      "api_level" : "25",
+      "timestamp" : "1479930287",
+      "channel" : "release",
+      "incremental" : ""
+    },
+  ]
+},
