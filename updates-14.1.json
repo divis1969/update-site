@@ -2,6 +2,16 @@
 "result" :
   [
     {
+      "filename" : "lineage-14.1-20170228-UNOFFICIAL-v0.3-meilan2.zip",
+      "url" : "https://github.com/divis1969/android_device_meizu_meilan2/releases/download/los-14.1-meilan2-v0.3/lineage-14.1-20170228-UNOFFICIAL-v0.3-meilan2.zip",
+      "changes" : "https://github.com/divis1969/android_device_meizu_meilan2/releases/download/los-14.1-meilan2-v0.3/ReleaseNotes.md",
+      "md5sum" : "ad7bebb450a1ff90dfa2a7e8cfd88a8a",
+      "api_level" : "25",
+      "timestamp" : "1488323682",
+      "channel" : "release",
+      "incremental" : ""
+    },
+    {
       "filename" : "lineage-14.1-20170219-UNOFFICIAL-v0.2-meilan2.zip",
       "url" : "https://github.com/divis1969/android_device_meizu_meilan2/releases/download/los-14.1-meilan2-v0.2/lineage-14.1-20170219-UNOFFICIAL-v0.2-meilan2.zip",
       "changes" : "https://github.com/divis1969/android_device_meizu_meilan2/releases/download/los-14.1-meilan2-v0.2/ReleaseNotes.md",
